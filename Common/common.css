@@ -1,0 +1,11 @@
+.form-block.w-clearfix.w-form{
+    float: none;
+    margin: 0;
+    text-align: center;
+}
+
+.form {
+    display: inline-block;
+   float: none;
+    text-align: right;
+}
